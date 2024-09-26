@@ -2,7 +2,13 @@
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUB_B5lsRHUEJ8LzqdrDkuMvSwiDET_NOEQ&s"  />
 </div>
 
+###
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1726478/screenshots/3781908/car-dealer-loader-gif.gif" alt="Loader Animation" width="150" height="150" />
+</div>
+
+###
 
 
 ###
