@@ -12,17 +12,14 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/syedkashanzikra" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Visitors-0-brightgreen?style=for-the-badge&logo=GitHub" alt="Visitor Badge" />
+
+<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
+  <p style="font-size: 18px; font-weight: bold; color: #333;">Welcome to My Profile!</p>
+  <a href="https://github.com/syedkashanzikra" target="_blank" style="text-decoration: none;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=syedkashanzikra.syedkashanzikra&" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <br />
-  <strong>Welcome to My Profile!</strong>
-  <br />
-  <em>Thank you for visiting! 😊</em>
+  <p style="font-size: 14px; color: #777;">Thank you for visiting! 😊</p>
 </div>
-
-
 
 ###
 
@@ -100,13 +97,7 @@
 
 ###
 
-<div align="center" style="padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
-  <p style="font-size: 18px; font-weight: bold; color: #333;">Welcome to My Profile!</p>
-  <a href="https://github.com/syedkashanzikra" target="_blank" style="text-decoration: none;">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=syedkashanzikra.syedkashanzikra&" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <p style="font-size: 14px; color: #777;">Thank you for visiting! 😊</p>
-</div>
+
 
 
 ###
