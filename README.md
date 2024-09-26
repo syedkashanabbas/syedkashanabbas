@@ -2,6 +2,13 @@
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUB_B5lsRHUEJ8LzqdrDkuMvSwiDET_NOEQ&s"  />
 </div>
 
+
+<div align="center">
+  <a href="https://codepen.io/mr_alien/pen/NWygPw" target="_blank">
+    <strong>View the Animated Loader on CodePen</strong>
+  </a>
+</div>
+
 ###
 
 <h1 align="left">Hi 👋! My name is Syed Kashan Abbas <br>Naqvi and I'm a Software Engineer representing Pakistan.</h1>
