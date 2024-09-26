@@ -12,17 +12,14 @@
 
 ###
 
-<div align="center" style="padding: 20px;">
-  <h3 style="font-size: 18px; font-weight: bold; color: #333;">Welcome to My Profile!</h3>
-  
-  <a href="https://github.com/syedkashanzikra" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 25px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=syedkashanzikra.syedkashanzikra&" style="vertical-align: middle;"/>
-      <span style="font-size: 16px; margin-left: 10px; vertical-align: middle;">Visitors</span>
-    </div>
+<div align="center">
+  <a href="https://github.com/syedkashanzikra" style="text-decoration: none;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=syedkashanzikra.syedkashanzikra&" alt="Visitor Badge" />
   </a>
-  
-  <h3 style="font-size: 14px; color: #777; margin-top: 10px;">Thank you for visiting! 😊</h3>
+  <br />
+  <strong>Welcome to My Profile!</strong>
+  <br />
+  <em>Thank you for visiting! 😊</em>
 </div>
 
 
