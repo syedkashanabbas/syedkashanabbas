@@ -4,9 +4,9 @@
 
 
 <div align="center">
-  <a href="https://codepen.io/mr_alien/pen/NWygPw" target="_blank">
+  <img href="https://codepen.io/mr_alien/pen/NWygPw" alt="Loader"/>
     <strong>View the Animated Loader on CodePen</strong>
-  </a>
+
 </div>
 
 ###
