@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1726478/screenshots/3781908/car-dealer-loader-gif.gif" alt="Loader Animation" width="800" height="300" />
+  <img src="https://cdn.dribbble.com/users/232693/screenshots/2069356/dribbble-mdd.gif" alt="Loader Animation"  width="1000" height="400" />
 </div>
 
 ###
