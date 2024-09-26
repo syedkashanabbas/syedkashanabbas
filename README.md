@@ -14,13 +14,14 @@
 
 <div align="center">
   <a href="https://github.com/syedkashanzikra" style="text-decoration: none;">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=syedkashanzikra.syedkashanzikra&" alt="Visitor Badge" />
+    <img src="https://img.shields.io/badge/Visitors-0-brightgreen?style=for-the-badge&logo=GitHub" alt="Visitor Badge" />
   </a>
   <br />
   <strong>Welcome to My Profile!</strong>
   <br />
   <em>Thank you for visiting! 😊</em>
 </div>
+
 
 
 ###
