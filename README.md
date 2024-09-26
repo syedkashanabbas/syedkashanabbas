@@ -3,11 +3,7 @@
 </div>
 
 
-<div align="center">
-  <img href="https://codepen.io/mr_alien/pen/NWygPw" alt="Loader"/>
-    <strong>View the Animated Loader on CodePen</strong>
 
-</div>
 
 ###
 
